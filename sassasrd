@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SASSA Status Check</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        .content-container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            color: #0056b3;
+            margin-top: 30px;
+        }
+
+        h3 {
+            font-size: 1.2rem;
+            color: #003d80;
+            margin-top: 20px;
+        }
+
+        p {
+            margin: 10px 0;
+            text-align: justify;
+        }
+
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <main class="content-container">
+        <h1>Srd Sassa Status Check</h1>
+        <p>
+            The South African Social Security Agency (SASSA) is a government agency responsible for administering social grants and ensuring the welfare of South African citizens, such as pensions, child support grants, disability grants, and other forms of social assistance.
+        </p>
+        <p>
+            The <a href="https://sassasrd-status.org.za" target="_blank">SASSA Status Check</a> is an online service allowing applicants of the Social Relief of Distress (SRD) Grant to monitor the progression of their application. It indicates whether the application is in the process of submission, deemed, or status is considered as rejection. It ensures that the persons who have already submitted the application are aware of whether they qualify for the grants and the status of the payments. Periodic verification of status is needed to retain active status. This program favors people who do not get other forms of financial assistance like UIF or NSFAS.
+        </p>
+        <h2>Ways to Check SRD R370 Status</h2>
+        <h3>1. How do you check the status on the SASSA website?</h3>
+        <p>
+            First, go to <a href="https://sassasrd-status.org.za" target="_blank">SRD Status Check</a>.
+            You will need your South African ID number and your phone number. Now, you must click “Submit” to view your status.
+        </p>
+        <h3>2. How to Check Status Using the Moya App (Data-Free)?</h3>
+        <ul>
+            <li>Download the Moya app from the Play Store.</li>
+            <li>When the application is started, select the “Discovery” page and the option “SASSA Grant.”</li>
+            <li>Select the item called “SRD Status” and type in your ID number and mobile telephone number.</li>
+            <li>Complete all the steps and access your status without an internet connection.</li>
+        </ul>
+        <h3>3. Check Status via SMS & WhatsApp or Phone Call</h3>
+        <ul>
+            <li>Send an SMS with the message “SASSA [Your ID Number]” to 082 046 8553.</li>
+            <li>You’ll receive a response with your application status.</li>
+        </ul>
+        <h3>4. Check Status via WhatsApp</h3>
+        <ul>
+            <li>Save the number 082 046 8553 to your contacts.</li>
+            <li>Send the word “SASSA” via WhatsApp.</li>
+            <li>Follow the prompts to provide your ID and mobile number to get your status.</li>
+        </ul>
+    </main>
+</body>
+</html>
